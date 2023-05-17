@@ -1,4 +1,4 @@
-package mergesort;
+package MergeSort;
 
 import java.util.List;
 import java.util.concurrent.RecursiveTask;

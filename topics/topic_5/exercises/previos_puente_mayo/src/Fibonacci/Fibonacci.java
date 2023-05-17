@@ -1,4 +1,4 @@
-package fibonacci;
+package Fibonacci;
 
 import java.util.concurrent.RecursiveTask;
 
